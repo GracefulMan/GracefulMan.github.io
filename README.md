@@ -1,9 +1,8 @@
 ## 欢迎来到GMan的博客世界
 
-You can use the [editor on GitHub](https://github.com/GracefulMan/RockLee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+大家好，我叫[GMan](http://mahongying.top:8888)，想在这里整理一些自己所学的东西，留下一丝痕迹。
+我将会在GMan的博客中整理包括编程语言，算法，数据结构以及机器学习相关的内容，由于GMan自身学艺不精，如果出现任何不准确的内容，还望大家批评指正，不胜感激。
+GMan的邮箱为[1729037772@qq.com](1729037772@qq.com)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
