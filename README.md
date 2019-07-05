@@ -2,7 +2,7 @@
 
 大家好，我叫[GMan](http://mahongying.top:8888)，想在这里整理一些自己所学的东西，留下一丝痕迹。
 我将会在GMan的博客中整理包括编程语言，算法，数据结构以及机器学习相关的内容，由于GMan自身学艺不精，如果出现任何不准确的内容，还望大家批评指正，不胜感激。
-GMan的邮箱为[1729037772@qq.com](1729037772@qq.com)
+GMan的邮箱为[1729037772@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1729037772@qq.com)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
