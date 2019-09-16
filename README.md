@@ -8,7 +8,7 @@ GMan的邮箱为[1729037772@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mai
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block!
 
 # Header 1
 ## Header 2
