@@ -16,7 +16,12 @@
 欢迎大家评论。
 
 ### 强化学习基础及算法实现
-已更新内容章节内容：
+已更新章节内容：
 
 * [强化学习简介](https://www.yuque.com/mahongying/reinforcement_learning/introduction)
     * 主要内容：强化学习定义，Policy、Value function和Model的概念。
+
+### 主动导航论文讲解
+已更新内容：
+
+* [Learning to Explore Using Neural Active SLAM](https://www.yuque.com/mahongying/navigation/active_neural_slam)
