@@ -4,7 +4,7 @@
 
 ## 个人笔记
 
-小马目前在采用强化学习做主动导航的相关研究，对相关内容的知识点进行整理的同时加入了一些自己对内容的理解。具体内容可[见个人笔记](https://www.yuque.com/mahongying/reinforcement_learning)
+小马目前在采用强化学习做主动导航的相关研究，对相关内容的知识点进行整理的同时加入了一些自己对内容的理解。具体内容可[见个人笔记](https://www.yuque.com/mahongying/reinforcement_learning).
 
 主要内容包括以下几个部分：
 * 强化学习基础及算法实现
