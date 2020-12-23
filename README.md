@@ -25,3 +25,5 @@
 已更新内容：
 
 * [Learning to Explore Using Neural Active SLAM](https://www.yuque.com/mahongying/navigation/active_neural_slam)
+    * 目标：有效探索地图内容
+    * 关键词：定位、建图、环境探索
