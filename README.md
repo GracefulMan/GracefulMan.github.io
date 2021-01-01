@@ -15,11 +15,30 @@
 
 欢迎大家评论。
 
-### 强化学习基础及算法实现
+### 强化学习基础
 已更新章节内容：
 
 * [强化学习简介](https://www.yuque.com/mahongying/reinforcement_learning/introduction)
     * 主要内容：强化学习定义，Policy、Value function和Model的概念。
+
+
+### 强化学习算法实现
+本章内容涉及深度强化学习时，均使用深度学习框架pytorch实现。
+
+已更新算法：
+
+* [Q Learning](https://github.com/GracefulMan/reinforcement_learning/tree/main/Q_learning)
+    * model-free
+    * off-policy
+    * discrete action space(or small action space).
+* [Sarsa](https://github.com/GracefulMan/reinforcement_learning/tree/main/Sarsa)
+    * model-free
+    * on-policy
+    * discrete action space(or small action space).
+* [Deep Q Learning](https://github.com/GracefulMan/reinforcement_learning/tree/main/DQN)
+    * model-free
+    * off-policy
+    * continuous action space(or large action space).
 
 ### 主动导航论文讲解
 已更新内容：
