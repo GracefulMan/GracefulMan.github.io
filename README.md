@@ -38,7 +38,18 @@
 * [Deep Q Learning](https://github.com/GracefulMan/reinforcement_learning/tree/main/DQN)
     * model-free
     * off-policy
+    * memory replay
     * continuous action space(or large action space).
+* [PPO](https://github.com/GracefulMan/reinforcement_learning/tree/main/PPO)
+    * model-free
+    * on-policy
+    * memory replay
+    * discrete action space(or small action space).
+* [DDPG](https://github.com/GracefulMan/reinforcement_learning/tree/main/DDPG)
+    * model-free
+    * off-policy
+    * continuous action space(or large action space).
+    * memory replay
 
 ### 主动导航论文讲解
 已更新内容：
